@@ -1,0 +1,32 @@
+h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: darkslateblue;
+    text-align: center;
+    background-color: gold;
+}
+div{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(139, 61, 116);
+    text-align: center;
+    background-color: rgb(0, 255, 98);
+}
+body{
+    background-color: gray;
+}
+figure{
+    text-align: center;
+}
+#img{
+    width: 62%;
+}
+p{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: darkslateblue;
+    text-align: center;
+    background-color: gold;
+    height: 30px;
+    font-size: 20px;
+}
